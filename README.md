@@ -31,4 +31,3 @@ analisador-municipios-ibge/
 ├── main.py
 └── README.md
 ```
-```
