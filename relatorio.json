@@ -1,0 +1,32 @@
+{
+    "municipio_mais_populoso": {
+        "nome": "São Paulo",
+        "populacao": 12396372
+    },
+    "populacao_por_regiao": {
+        "Sudeste": 21702634,
+        "Nordeste": 7264727,
+        "Norte": 3762323,
+        "Sul": 3451978
+    },
+    "municipios_por_regiao": {
+        "Sudeste": [
+            "São Paulo",
+            "Rio de Janeiro",
+            "Belo Horizonte"
+        ],
+        "Nordeste": [
+            "Salvador",
+            "Fortaleza",
+            "Recife"
+        ],
+        "Norte": [
+            "Manaus",
+            "Belém"
+        ],
+        "Sul": [
+            "Curitiba",
+            "Porto Alegre"
+        ]
+    }
+}
